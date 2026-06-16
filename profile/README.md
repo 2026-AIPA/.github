@@ -1,3 +1,5 @@
+![AIPA poster](aipa.png)
+
 # AIPA — AI in Public Administration
 
 Digitalizácia verejnej správy je jednou z kľúčových výziev modernej spoločnosti. S rastúcim množstvom dát a potrebou efektívneho rozhodovania sa stáva využitie umelej inteligencie nevyhnutnosťou. Mestá a obce generujú obrovské množstvo dát z rôznych zdrojov - od senzorových systémov na monitorovanie spotreby energie, cez geografické informačné systémy až po administratívne záznamy.
